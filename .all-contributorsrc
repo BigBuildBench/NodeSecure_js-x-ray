@@ -1,0 +1,193 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "fraxken",
+      "name": "Gentilhomme",
+      "avatar_url": "https://avatars.githubusercontent.com/u/4438263?v=4",
+      "profile": "https://www.linkedin.com/in/thomas-gentilhomme/",
+      "contributions": [
+        "code",
+        "doc",
+        "review",
+        "security",
+        "bug"
+      ]
+    },
+    {
+      "login": "Rossb0b",
+      "name": "Nicolas Hallaert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39910164?v=4",
+      "profile": "https://github.com/Rossb0b",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "antoine-coulon",
+      "name": "Antoine",
+      "avatar_url": "https://avatars.githubusercontent.com/u/43391199?v=4",
+      "profile": "https://github.com/antoine-coulon",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Mathieuka",
+      "name": "Mathieu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34446722?v=4",
+      "profile": "https://github.com/Mathieuka",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "Kawacrepe",
+      "name": "Vincent Dhennin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/40260517?v=4",
+      "profile": "https://github.com/Kawacrepe",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "tony-go",
+      "name": "Tony Gorez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/22824417?v=4",
+      "profile": "http://tonygo.dev",
+      "contributions": [
+        "code",
+        "doc",
+        "test"
+      ]
+    },
+    {
+      "login": "PierreDemailly",
+      "name": "PierreD",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39910767?v=4",
+      "profile": "https://github.com/PierreDemailly",
+      "contributions": [
+        "test",
+        "code"
+      ]
+    },
+    {
+      "login": "Aekk0",
+      "name": "Franck Hallaert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110826655?v=4",
+      "profile": "https://www.linkedin.com/in/franck-hallaert/",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "M4gie",
+      "name": "Maji",
+      "avatar_url": "https://avatars.githubusercontent.com/u/33150916?v=4",
+      "profile": "https://maji.kiwi",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "targos",
+      "name": "Michaël Zasso",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2352663?v=4",
+      "profile": "https://github.com/targos",
+      "contributions": [
+        "code",
+        "bug"
+      ]
+    },
+    {
+      "login": "fabnguess",
+      "name": "Kouadio Fabrice Nguessan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/72697416?v=4",
+      "profile": "https://github.com/fabnguess",
+      "contributions": [
+        "maintenance",
+        "code"
+      ]
+    },
+    {
+      "login": "jean-michelet",
+      "name": "Jean",
+      "avatar_url": "https://avatars.githubusercontent.com/u/110341611?v=4",
+      "profile": "https://github.com/jean-michelet",
+      "contributions": [
+        "test",
+        "code",
+        "doc"
+      ]
+    },
+    {
+      "login": "tchapacan",
+      "name": "tchapacan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/28821702?v=4",
+      "profile": "https://github.com/tchapacan",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    },
+    {
+      "login": "mkarkkainen",
+      "name": "mkarkkainen",
+      "avatar_url": "https://avatars.githubusercontent.com/u/65869801?v=4",
+      "profile": "http://miikkak.dev",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "FredGuiou",
+      "name": "FredGuiou",
+      "avatar_url": "https://avatars.githubusercontent.com/u/99122562?v=4",
+      "profile": "https://github.com/FredGuiou",
+      "contributions": [
+        "doc",
+        "code"
+      ]
+    },
+    {
+      "login": "madina0801",
+      "name": "Madina",
+      "avatar_url": "https://avatars.githubusercontent.com/u/101329759?v=4",
+      "profile": "https://github.com/madina0801",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "sairuss7",
+      "name": "SairussDev",
+      "avatar_url": "https://avatars.githubusercontent.com/u/87803528?v=4",
+      "profile": "https://github.com/sairuss7",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "fless-lab",
+      "name": "Abdou-Raouf ATARMLA",
+      "avatar_url": "https://avatars.githubusercontent.com/u/71844440?v=4",
+      "profile": "https://github.com/fless-lab",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "js-x-ray",
+  "projectOwner": "NodeSecure",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true,
+  "commitConvention": "angular",
+  "commitType": "docs"
+}
